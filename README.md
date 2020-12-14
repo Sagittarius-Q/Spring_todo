@@ -21,7 +21,7 @@
 
 # 3.Tools
 
-* Lommbok
+* Lombok
 * etc
 
 
@@ -37,7 +37,7 @@ What is Todo List ?
 
 
 
-# Login Page (defaul Spring security login page)
+# Login Page (default Spring security login page)
 ![](img/login.png)
 * enter your Username and password
 
