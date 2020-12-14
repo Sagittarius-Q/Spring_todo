@@ -45,6 +45,9 @@ What is Todo List ?
 # Todo table
 ![](img/list.png)
 
+# Add new target
+![](img/addtarget.png)
+
 
 # Finished works
 ![](img/done.png)
